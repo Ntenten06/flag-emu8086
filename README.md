@@ -8,5 +8,3 @@
 - Uses BIOS interrupt 10h
 - Runs in graphics mode
 
-## Screenshot
-![flag](Ireland.png)

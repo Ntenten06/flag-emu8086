@@ -1,6 +1,6 @@
 # Assembly Flag Project 🇹🇭
 
-This project draws the Thai flag using EMU8086.
+This project draws the ireland flag using EMU8086.
 
 ## Features
 - Written in x86 Assembly

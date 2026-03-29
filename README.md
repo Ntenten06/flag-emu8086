@@ -1,6 +1,6 @@
 # Assembly Flag Project 🇹🇭
 
-This project draws the ireland flag using EMU8086.
+การสร้างธงชาติอิตาลีโดยใช้ภาษา Assembly (8086) บนโหมดกราฟิก Video Mode 13h
 
 ## Features
 - Written in x86 Assembly

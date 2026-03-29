@@ -18,3 +18,7 @@ Orange (06h)
 ## Screenshots
 
 ![flag](Runresults.jpg)
+
+## Installation & Usage
+Compile and run using emu8086 emulator.
+Press Emulate and then Run to see the output.

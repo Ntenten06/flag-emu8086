@@ -11,11 +11,8 @@
 ## How it works
 - Initialize: เริ่มต้นการตั้งค่า Video Mode
 - Color Mapping: การกำหนดค่าสี (Palette) ตามมาตรฐานธงชาติอิตาลี
-
 Green (02h)
-
 White (0Fh)
-
 Orange (06h)
 - Pixel Drawing: การคำนวณตำแหน่งพิกเซลในแนวตั้งและแนวนอนเพื่อแบ่งพื้นที่ 3 ส่วนเท่าๆ กัน
 ## Screenshots

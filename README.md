@@ -17,4 +17,4 @@ Red (04h)
 - Pixel Drawing: การคำนวณตำแหน่งพิกเซลในแนวตั้งและแนวนอนเพื่อแบ่งพื้นที่ 3 ส่วนเท่าๆ กัน
 ## Screenshots
 
-![flag](Run results.jpg)
+![flag](Runresults.jpg)

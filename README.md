@@ -5,7 +5,7 @@
 ## Features
 - Direct Video Memory Access: การเข้าถึงหน่วยความจำวิดีโอโดยตรงที่แอดเดรส 0A000h
 - Video Mode 13h: การใช้งานโหมดกราฟิกความละเอียด $320 \times 200$ พิกเซล
-- Loop Optimization: การใช้ลูปเพื่อวาดแถบสีทั้ง 3 แถบ (เขียว, ขาว, แดง) อย่างมีประสิทธิภาพInterrupt 
+- Loop Optimization: การใช้ลูปเพื่อวาดแถบสีทั้ง 3 แถบ (เขียว, ขาว, ส้ม) อย่างมีประสิทธิภาพInterrupt 
 - Handling: การเรียกใช้ INT 10h เพื่อจัดการการแสดงผลบนหน้าจอ
 
 ## How it works
@@ -13,7 +13,7 @@
 - Color Mapping: การกำหนดค่าสี (Palette) ตามมาตรฐานธงชาติอิตาลี
 Green (02h)
 White (0Fh)
-Red (04h)
+Orange (06h)
 - Pixel Drawing: การคำนวณตำแหน่งพิกเซลในแนวตั้งและแนวนอนเพื่อแบ่งพื้นที่ 3 ส่วนเท่าๆ กัน
 ## Screenshots
 
